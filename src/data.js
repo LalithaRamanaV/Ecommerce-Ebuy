@@ -16,7 +16,7 @@ export const sliderItems = [
     {
       id: 3,
       img: "https://images.pexels.com/photos/3671111/pexels-photo-3671111.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      title: "OCTOBER LOVE",
+      title: "KIDS LOVE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 50% OFF FOR NEW ARRIVALS.",
       bg: "fbf0f4",
     },
@@ -59,7 +59,7 @@ export const sliderItems = [
     },
     {
       id:5,
-      img:"https://www.pngkey.com/png/detail/850-8506326_levis-kids-ss-tee-batwing-levis-girl-levis.png",
+      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
     },
     {
       id:6,
